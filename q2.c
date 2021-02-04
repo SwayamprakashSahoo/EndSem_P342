@@ -21,3 +21,12 @@ int main()
 }
 
 
+
+/************************OUTPUT**************************
+Given equation is:
+        T = 4 x sqrt(L/g) x I
+Using given values of L and g:
+Solution for T = 2.087320
+*******************************************************/
+
+
