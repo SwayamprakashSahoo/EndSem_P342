@@ -88,3 +88,51 @@ int main()
 	printf("For exponential fit in (ii) the values are:\nW0 = e^(%lf)\n W_c = %lf\n", b, a);
 	printf("Quality of fit:%lf\n\n", r);
 }
+
+
+
+
+
+
+
+
+
+
+
+/***************************OUTPUT*********************************
+Please enter the values of X sequentially
+0
+.3
+.6
+.9
+1.2
+1.5
+1.8
+2.1
+2.4
+2.7
+3
+3.3
+Please enter the values of Y sequentially
+2.2
+1.96
+1.72
+1.53
+1.36
+1.22
+1.1
+1
+.86
+.75
+.65
+.6
+For linear fit in (i) the values are:
+W0 = -0.474709
+ W_c = 2.029103
+Quality of fit:0.985156
+
+For exponential fit in (ii) the values are:
+W0 = e^(-0.395596)
+ W_c = 0.790278
+Quality of fit:0.913349
+*****************************************************************************/
