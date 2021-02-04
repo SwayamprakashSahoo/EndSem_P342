@@ -22,3 +22,18 @@ int main()
 	printf("The value of b is : %.4lf\n ", b);
 }
 
+/**************************OUTPUT******************************
+Given equation for Planck's spectrum:
+(x-5)(e^x) + 5 = 0
+
+
+
+For using Newton-Raphson method:-
+Please enter the value of guess 'a' :
+ 45
+The root of the equation yields : 4.965114
+ We have :
+x = hc/bk
+Using the given values of h, c and the calculated value of x:
+The value of b is : 0.0029
+**************************************************************/
